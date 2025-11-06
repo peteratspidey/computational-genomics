@@ -1,23 +1,6 @@
 # computational-genomics
 tutorials of the computational genomics (NPTEL) youtube
 
-
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Gmail with screen readers
-1 of 7,882
-Work
-Nithin <bioinfoaimldl@gmail.com>
-	
-Attachments12:57 AM (1 hour ago)
-	
-	
-to me, ravenxplore
-
- 6 Attachments  •  Scanned by Gmail
-	
-
 **Introduction to Different OMICS Approaches and their Applications – Detailed Notes (Prof. Vineet Kumar Sharma, NPTEL-NOC IITM)**
 
 ***
