@@ -1,5 +1,4 @@
 # 🧬 Introduction to Different OMICS Approaches and Their Applications
-**(Prof. Vineet Kumar Sharma, NPTEL-NOC IITM)**
 
 ---
 
