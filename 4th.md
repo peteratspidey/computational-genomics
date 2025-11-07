@@ -106,8 +106,6 @@
 - Biological databases are foundational for modern research and collaboration.
 - Knowledge of key resources, proper querying, and data management is essential for computational genomics, proteomics, and systems biology.
 - Database skills (e.g., SQL, data curation, data integration) are highly valuable for bioinformatics professionals.
-
+### references
 [1](https://www.youtube.com/watch?v=hT0NVPlJdZs&list=PLyqSpQzTE6M9F59-Lbh5KzYa_EtaWlbIk&index=4)
 
-4.txt
-Displaying 4.txt.
