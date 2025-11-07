@@ -1,4 +1,4 @@
-# 🧬 Introduction to Different OMICS Approaches and Their Applications
+# Introduction to Different OMICS Approaches and Their Applications
 
 ---
 
@@ -150,7 +150,7 @@
 
 ---
 
-### 🎥 Reference
+###  Reference
 [Prof. Vineet Kumar Sharma – NPTEL Lecture on OMICS Approaches](https://www.youtube.com/watch?v=YzITNOKYzGM&list=PLyqSpQzTE6M9F59-Lbh5KzYa_EtaWlbIk&index=2)
 
 ---
