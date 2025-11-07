@@ -1,21 +1,3 @@
-
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-1 of 7,882
-Work
-Inbox
-Nithin <bioinfoaimldl@gmail.com>
-	
-Attachments12:57 AM (9 hours ago)
-	
-	
-to me, ravenxplore
-
- 6 Attachments  •  Scanned by Gmail
-	
-
 **Long Read Sequencing and Linked Read Sequencing – Detailed Notes**
 
 ***
@@ -92,8 +74,6 @@ to me, ravenxplore
 **8. Conclusion**
 - Long read sequencing (Nanopore, PacBio) and linked read technologies (10x Chromium) represent next-generation solutions to biological data assembly.
 - They offer new possibilities for accuracy, contiguity, and accessibility, now central to modern genomics and transcriptomics workflows.
-
+### references
 [1](https://www.youtube.com/watch?v=6Dv0kH1565g&list=PLyqSpQzTE6M9F59-Lbh5KzYa_EtaWlbIk&index=6)
 
-6.txt
-Displaying 4.txt.
