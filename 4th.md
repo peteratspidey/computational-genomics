@@ -1,4 +1,4 @@
-**Databases and Web Resources to Store and Access Biological Data – Detailed Notes**
+# **Databases and Web Resources to Store and Access Biological Data – Detailed Notes**
 
 ***
 
