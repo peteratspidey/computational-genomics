@@ -19,7 +19,7 @@
 
 ## 2. Genome Size and the C-Value Paradox
 
-**C-Value:** Amount of DNA in a haploid genome.
+**C-Value:** Amount of DNA in a haploid genome(single set of chromosome).
 
 **C-Value Paradox:** Genome size does not correlate with organismal complexity.
 - Example: Some plants have more DNA than humans but similar gene counts.
