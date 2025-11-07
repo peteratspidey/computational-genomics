@@ -1,32 +1,14 @@
-
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-1 of 7,882
-Work
-Inbox
-Nithin <bioinfoaimldl@gmail.com>
-	
-Attachments12:57 AM (9 hours ago)
-	
-	
-to me, ravenxplore
-
- 6 Attachments  •  Scanned by Gmail
-	
-
-**First and Second Generation Sequencing Technologies – Detailed Notes**
+# **First and Second Generation Sequencing Technologies – Detailed Notes**
 
 ***
 
-**1. Principle of Sequencing**
+## **1. Principle of Sequencing**
 - **Goal:** Determine nucleotide identity and order for DNA (mainly) or RNA at each position.
 - **Base terminology:** Read length, fragments, paired-end/single-end, coverage, contig, scaffold, draft vs. complete genome.
 
 ***
 
-**2. Historical Perspective & Evolution**
+## **2. Historical Perspective & Evolution**
 - **First Generation Sequencing:**
   - *Sanger Sequencing (Chain Termination)* – Developed 1977.
     - Key stages: DNA template, primer, DNA polymerase, dNTPs + chain-terminating ddNTPs (di-deoxy).
@@ -51,7 +33,7 @@ to me, ravenxplore
 
 ***
 
-**3. Shotgun Sequencing and Assembly**
+## **3. Shotgun Sequencing and Assembly**
 - **Shotgun:** Random DNA fragmentation followed by sequencing; fragments then assembled computationally into drafts or complete genomes.
 - **Contigs:** Overlapping reads form longer sequences.
 - **Scaffold:** Ordered, oriented set of contigs, may contain gaps.
@@ -64,19 +46,19 @@ to me, ravenxplore
 
 ***
 
-**4. Single-End vs. Paired-End Reads**
+## **4. Single-End vs. Paired-End Reads**
 - **Single-End:** Sequence from one end—simpler, less information.
 - **Paired-End:** Sequence both ends of DNA fragments; better assembly, detect repeats/adjacencies.
 
 ***
 
-**5. Library Preparation and Amplification**
+## **5. Library Preparation and Amplification**
 - **First Gen:** Cloning into vectors, bacterial amplification for sufficient material.
 - **Second Gen:** In vitro amplification (bridge amplification on flow cell, not cloning/bacterial cells).
 
 ***
 
-**6. Technical Differences and Advancements**
+## **6. Technical Differences and Advancements**
 | Parameter                | Sanger (1st Gen)          | Illumina (2nd Gen)            |
 |--------------------------|---------------------------|-------------------------------|
 | Read length              | 500–800 bp                | 75–300 bp                     |
@@ -90,7 +72,7 @@ to me, ravenxplore
 
 ***
 
-**7. Sequencing Workflow Overview**
+## **7. Sequencing Workflow Overview**
 - **Sanger Example:**
   - DNA + primer + polymerase + dNTPs/ddNTPs → chain-terminated fragments
   - Capillary electrophoresis → color-separated "read"
@@ -102,24 +84,21 @@ to me, ravenxplore
 
 ***
 
-**8. Instrumentation**
+## **8. Instrumentation**
 - Advance in sequencer design: moving from rooms full of Sanger sequencers (Human Genome Project) to single machines (Roche, Illumina) to ever smaller, higher throughput platforms (MySeq, NextSeq, HiSeq, NovaSeq).
 
 ***
 
-**9. Applications & Limitations**
+## **9. Applications & Limitations**
 - Sanger: Still used for targeted gene/molecular marker validation.
 - Illumina: Dominant for genomics, transcriptomics, metagenomics, high-throughput data.
 - Challenges: Short read assembly (Illumina), cost-per-sample (Sanger), computational needs.
 
 ***
 
-**10. Takeaway Points**
+## **10. Takeaway Points**
 - First and second generation sequencing revolutionized biology with different trade-offs.
 - Illumina enables data-driven genomics, while Sanger’s accuracy preserves its niche in targeted and validation assays.
 - Newer (third/fourth generation) long-read technologies further resolve genome complexities, but Sanger and Illumina remain pillars for basics and big-data, respectively.
-
+### references
 [1](https://www.youtube.com/watch?v=sCPFiK0ma7o&list=PLyqSpQzTE6M9F59-Lbh5KzYa_EtaWlbIk&index=5)
-
-5.txt
-Displaying 4.txt.
