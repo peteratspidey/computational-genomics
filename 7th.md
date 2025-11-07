@@ -1,22 +1,4 @@
-
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-1 of 7,882
-Work
-Inbox
-Nithin <bioinfoaimldl@gmail.com>
-	
-Attachments12:57 AM (9 hours ago)
-	
-	
-to me, ravenxplore
-
- 6 Attachments  •  Scanned by Gmail
-	
-
-**Long Read Sequencing and Linked Read Sequencing – Part 02 (PacBio SMRT and TELL-Seq) – Detailed Notes**
+# **Long Read Sequencing and Linked Read Sequencing – Part 02 (PacBio SMRT and TELL-Seq) – Detailed Notes**
 
 ***
 
@@ -93,8 +75,5 @@ to me, ravenxplore
 **8. Conclusion**
 - Technological advances in both long-read and linked-read sequencing democratize genomics, making high-quality assemblies possible even for non-model organisms and environmental communities.
 - Hybrid approaches (combining short and long reads) optimize accuracy and contiguity for modern genomic projects.
-
+### references
 [1](https://www.youtube.com/watch?v=SWYGPYuvvy0&list=PLyqSpQzTE6M9F59-Lbh5KzYa_EtaWlbIk&index=7)
-
-7.txt
-Displaying 4.txt.
